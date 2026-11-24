@@ -1,10 +1,10 @@
 // ====== EDIT ONLY THIS BLOCK ======
 const DATA = {
-  name: "Your Name",
+  name: "PVR Raja",
   tagline: "Crafting the sound of cinema.",
   about: "Write your biography here: where you started, your style, your journey in film music.",
   email: "you@example.com",
-  stats: [["25+","Films"],["100+","Songs"],["10","Years"]],
+  stats: [["25+","Films"],["250+","Songs"],["10","Years"]],
   films: [
     {title:"Movie One", year:"2024", role:"Music Director", poster:"images/film1.jpg"},
     {title:"Movie Two", year:"2023", role:"Composer", poster:"images/film2.jpg"}
